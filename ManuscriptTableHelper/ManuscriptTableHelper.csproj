@@ -64,6 +64,7 @@
     <Compile Include="Views\MultiRawView.cs" />
     <Compile Include="Views\MultiSelectView.cs" />
     <Compile Include="Views\RawView.cs" />
+    <Compile Include="Views\MultiSignatureView.cs" />
     <Compile Include="Views\SelectView.cs" />
     <Compile Include="Views\ViewManager.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

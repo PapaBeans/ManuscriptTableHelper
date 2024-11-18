@@ -40,6 +40,8 @@ namespace ManuscriptTableHelper
             //Multi views for when we want/need to display more than one table at a time
             viewManager.RegisterMultiViewType(new MultiRawView());
             viewManager.RegisterMultiViewType(new MultiSelectView());
+            viewManager.RegisterMultiViewType(new MultiSignatureView());
+
         }
 
         private void LoadButton_Click(object sender, EventArgs e)
