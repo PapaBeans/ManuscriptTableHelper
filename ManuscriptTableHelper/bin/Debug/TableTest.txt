@@ -1,0 +1,48 @@
+<object>
+	<table id="TableName" tableType="local" separator="|">
+	  <fields>
+		<field type="int" name="SignatureText" />
+	  </fields>
+	  <rowKeys name="StateCode" type="String" find="eq">
+		<key value="AK" />
+		<key value="CO" />
+		<key value="Default" default="1" caption="" />
+	  </rowKeys>
+	  <data>
+		<row value="This text is associated with the AK state code" />
+		<row value="This text is associated with the CO state code" />
+		<row value="This text is associated with any other inserted value" />
+	  </data>
+	</table>
+
+	<table id="TableName_BOLD" tableType="local" separator="|">
+	  <fields>
+		<field type="int" name="SignatureTextBOLD" />
+	  </fields>
+	  <rowKeys name="StateCode" type="String" find="eq">
+		<key value="AK" />
+		<key value="CO" />
+		<key value="Default" default="1" caption="" />
+	  </rowKeys>
+	  <data>
+		<row value="This BOLD text is associated with the AK state code" />
+		<row value="This BOLD text is associated with the CO state code" />
+		<row value="This BOLD text is associated with any other inserted value" />
+	  </data>
+	</table>
+	<table id="TableName_BOLDTEXTHERE" tableType="local" separator="|">
+	  <fields>
+		<field type="int" name="BOLDTEXTHERE" />
+	  </fields>
+	  <rowKeys name="StateCode" type="String" find="eq">
+		<key value="NM" />
+		<key value="CO" />
+		<key value="Default" default="1" caption="" />
+	  </rowKeys>
+	  <data>
+		<row value="This BOLDHERE text is associated with the NM state code" />
+		<row value="This BOLDHERE text is associated with the CO state code" />
+		<row value="This BOLDHERE text is associated with any other inserted value" />
+	  </data>
+	</table>
+</object>

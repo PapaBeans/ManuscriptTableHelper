@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\views\\multiselectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\views\\multiselectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\views\\viewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\views\\viewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\interfaces\\iviewtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\interfaces\\iviewtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\datatypes\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\datatypes\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\datatypes\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\datatypes\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|c:\\users\\dakota m\\source\\repos\\manuscripttablehelper\\manuscripttablehelper\\datatypes\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AD77A9-E893-436C-9A22-7F2544AA1593}|ManuscriptTableHelper\\ManuscriptTableHelper.csproj|solutionrelative:manuscripttablehelper\\datatypes\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiSelectView.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Views\\MultiSelectView.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\Views\\MultiSelectView.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Views\\MultiSelectView.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\Views\\MultiSelectView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:01:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Views\\ViewManager.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\Views\\ViewManager.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Views\\ViewManager.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\Views\\ViewManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:43:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Form1.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvykAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:03:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\DataTypes\\Key.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\DataTypes\\Key.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\DataTypes\\Key.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\DataTypes\\Key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:02:00.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\DataTypes\\Field.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\DataTypes\\Field.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\DataTypes\\Field.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\DataTypes\\Field.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:58:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\DataTypes\\Table.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\DataTypes\\Table.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\DataTypes\\Table.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\DataTypes\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:58:13.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Form1.cs [Design]",
+              "RelativeToolTip": "ManuscriptTableHelper\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:47:44.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IViewType.cs",
+              "DocumentMoniker": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Interfaces\\IViewType.cs",
+              "RelativeDocumentMoniker": "ManuscriptTableHelper\\Interfaces\\IViewType.cs",
+              "ToolTip": "C:\\Users\\Dakota M\\source\\repos\\ManuscriptTableHelper\\ManuscriptTableHelper\\Interfaces\\IViewType.cs",
+              "RelativeToolTip": "ManuscriptTableHelper\\Interfaces\\IViewType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:10:29.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

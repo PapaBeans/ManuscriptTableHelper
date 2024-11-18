@@ -1,0 +1,9 @@
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\obj\Debug\ManuscriptTableHelper.csproj.AssemblyReference.cache
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\obj\Debug\ManuscriptTableHelper.Properties.Resources.resources
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\obj\Debug\ManuscriptTableHelper.csproj.GenerateResource.cache
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\obj\Debug\ManuscriptTableHelper.csproj.CoreCompileInputs.cache
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\bin\Debug\ManuscriptTableHelper.exe.config
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\bin\Debug\ManuscriptTableHelper.exe
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\bin\Debug\ManuscriptTableHelper.pdb
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\obj\Debug\ManuscriptTableHelper.exe
+C:\Users\Dakota M\source\repos\ManuscriptTableHelper\ManuscriptTableHelper\obj\Debug\ManuscriptTableHelper.pdb
